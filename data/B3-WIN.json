@@ -1,0 +1,162 @@
+{
+  "name": "Ibovespa Mini",
+  "symbol": "WIN",
+  "market": "B3",
+  "data": [
+    {
+      "symbol": "Z20",
+      "expires_at": "2020-12-16T00:00:00",
+      "next": "G21"
+    },
+    {
+      "symbol": "G21",
+      "expires_at": "2021-02-17T00:00:00",
+      "next": "J21"
+    },
+    {
+      "symbol": "J21",
+      "expires_at": "2021-04-14T00:00:00",
+      "next": "M21"
+    },
+    {
+      "symbol": "M21",
+      "expires_at": "2021-06-16T00:00:00",
+      "next": "Q21"
+    },
+    {
+      "symbol": "Q21",
+      "expires_at": "2021-08-18T00:00:00",
+      "next": "V21"
+    },
+    {
+      "symbol": "V21",
+      "expires_at": "2021-10-12T00:00:00",
+      "next": "Z21"
+    },
+    {
+      "symbol": "Z21",
+      "expires_at": "2021-12-15T00:00:00",
+      "next": "G22"
+    },
+    {
+      "symbol": "G22",
+      "expires_at": "2022-02-16T00:00:00",
+      "next": "J22"
+    },
+    {
+      "symbol": "J22",
+      "expires_at": "2022-04-13T00:00:00",
+      "next": "M22"
+    },
+    {
+      "symbol": "M22",
+      "expires_at": "2022-06-15T00:00:00",
+      "next": "Q22"
+    },
+    {
+      "symbol": "Q22",
+      "expires_at": "2022-08-17T00:00:00",
+      "next": "V22"
+    },
+    {
+      "symbol": "V22",
+      "expires_at": "2022-10-12T00:00:00",
+      "next": "Z22"
+    },
+    {
+      "symbol": "Z22",
+      "expires_at": "2022-12-14T00:00:00",
+      "next": "G23"
+    },
+    {
+      "symbol": "G23",
+      "expires_at": "2023-02-15T00:00:00",
+      "next": "J23"
+    },
+    {
+      "symbol": "J23",
+      "expires_at": "2023-04-12T00:00:00",
+      "next": "M23"
+    },
+    {
+      "symbol": "M23",
+      "expires_at": "2023-06-14T00:00:00",
+      "next": "Q23"
+    },
+    {
+      "symbol": "Q23",
+      "expires_at": "2023-08-16T00:00:00",
+      "next": "V23"
+    },
+    {
+      "symbol": "V23",
+      "expires_at": "2023-10-18T00:00:00",
+      "next": "Z23"
+    },
+    {
+      "symbol": "Z23",
+      "expires_at": "2023-12-13T00:00:00",
+      "next": "G24"
+    },
+    {
+      "symbol": "G24",
+      "expires_at": "2024-02-14T00:00:00",
+      "next": "J24"
+    },
+    {
+      "symbol": "J24",
+      "expires_at": "2024-04-17T00:00:00",
+      "next": "M24"
+    },
+    {
+      "symbol": "M24",
+      "expires_at": "2024-06-12T00:00:00",
+      "next": "Q24"
+    },
+    {
+      "symbol": "Q24",
+      "expires_at": "2024-08-14T00:00:00",
+      "next": "V24"
+    },
+    {
+      "symbol": "V24",
+      "expires_at": "2024-10-16T00:00:00",
+      "next": "Z24"
+    },
+    {
+      "symbol": "Z24",
+      "expires_at": "2024-12-18T00:00:00",
+      "next": "G25"
+    },
+    {
+      "symbol": "G25",
+      "expires_at": "2025-02-12T00:00:00",
+      "next": "J25"
+    },
+    {
+      "symbol": "J25",
+      "expires_at": "2025-04-16T00:00:00",
+      "next": "M25"
+    },
+    {
+      "symbol": "M25",
+      "expires_at": "2025-06-18T00:00:00",
+      "next": "Q25"
+    },
+    {
+      "symbol": "Q25",
+      "expires_at": "2025-08-13T00:00:00",
+      "next": "V25"
+    },
+    {
+      "symbol": "V25",
+      "expires_at": "2025-10-15T00:00:00",
+      "next": "Z25"
+    },
+    {
+      "symbol": "Z25",
+      "expires_at": "2025-12-17T00:00:00",
+      "next": "G26"
+    }
+  ]
+}
